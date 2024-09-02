@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets"
+        xmlns:tizen="http://tizen.org/ns/widgets"
+        id="com.amigosburgerbar.amigos_queue_tv"
+        version="1.0.0"
+        viewmodes="fullscreen">
+    <tizen:application id="com.amigosburgerbar.amigos_queue_tv" package="com.amigosburgerbar.amigos_queue_tv" required_version="2.4"/>
+    <content src="index.html"/>
+    <icon src="icon.png"/>
+    <name>QueueTv</name>
+    <description>Amigos orders queue</description>
+    <author>KubeGet</author>
+    <tizen:privilege name="http://tizen.org/privilege/internet"/>
+</widget>
